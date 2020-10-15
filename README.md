@@ -1,30 +1,4 @@
-# zcdn-server
-
-### 项目结构
-
-    .
-    ├── README.md
-    ├── app
-    │   ├── constant
-    │   │   └── statusCode.js
-    │   ├── controller
-    │   │   └── home.js
-    │   ├── extend
-    │   │   └── context.js
-    │   ├── model
-    │   ├── public
-    │   ├── router.js
-    │   └── routes
-    │       └── check.js
-    ├── commitlint.config.js
-    ├── config
-    │   ├── config.default.js
-    │   └── plugin.js
-    ├── jsconfig.json
-    ├── test 
-    ├── logs
-    ├── package.json
-    └── package-lock.json
+## HTTP-NODEJS-SERVER
 
 
 ### 测试部署
